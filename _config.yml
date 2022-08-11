@@ -153,12 +153,12 @@ yat:
 #   - tags.html
 #   - about.md
 
-# Page default value
-# defaults:
-#   home:
-#     heading: "Your awesome heading !!"
-#     subheading: "Your awesome subheading"
-#     banner: "https://i.pinimg.com/originals/fa/87/1f/fa871f80c570fda43fef2af9f57384fe.jpg"
+ Page default value
+ defaults:
+   home:
+     heading: "Your awesome heading"
+     subheading: "Your awesome subheading"
+     banner: "https://i.pinimg.com/originals/fa/87/1f/fa871f80c570fda43fef2af9f57384fe.jpg"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
