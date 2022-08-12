@@ -37,9 +37,4 @@ $content-width: {{ site.content_width | default: '920px' }};
 
 @import "yat";
 
-@font-face {
-    font-family: 'HSBombaram';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/HSBombaram.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-  }
+
