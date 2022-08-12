@@ -18,7 +18,7 @@ github로 블로그 만드는건 정말 어렵다.
 
 근데 markdown문법 사용하기 매우 편하네 생각보다 쉬워서 다행인걸?
 
-```
+```cpp
 #include<iostream>
 
 int main{
