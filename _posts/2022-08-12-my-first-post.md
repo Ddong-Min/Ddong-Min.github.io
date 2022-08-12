@@ -4,9 +4,9 @@ title: "[Ddong-Min] 내 인생 첫 포스트"
 excerpt: "응애~ 만들기 어려워"
 
 categories:
-    - Blog
+    - example
 tags:
-    - [Blog,jekyll,Github, Git]
+    - [example]
 
 toc: true
 toc_sticky: true
