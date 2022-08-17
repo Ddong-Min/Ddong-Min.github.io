@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://ddong-min.github.io/sitemap.xml
+Sitemap: https://ddong-min.github.io/sitemap.xml
