@@ -22,7 +22,7 @@ SWEA 1767번 -> <https://swexpertacademy.com/main/code/problem/problemDetail.do?
 ### 첫번째 풀이
 2022-08-17
 
-아직 vector 사용법이 익숙하지 않기 때문에 벡터를 사용하지 않고 푸는 방법을 고안해 보았다.
+아직 vector 사용법이 익숙하지 않기 때문에 벡터를 사용하지 않고 푸는 방법을 고안해 보았습니다.
 
 코드 메모리는 13,548kb 이고 코드 수행시간은 184ms입니다.
 
