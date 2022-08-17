@@ -56,6 +56,7 @@ favicon: "" # the favicon for your site
 yat:
   date_format: "%b %d, %Y"
 
+<meta name="google-site-verification" content="frkGYdcfxRWWHgbQE7FHMEeFu0j7Qh7EhF0mEFFMDP4" />
 # If you want more debug log, you can set true
 # debug: false
 
@@ -217,3 +218,5 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-spaceship
+
+google_site_verification: frkGYdcfxRWWHgbQE7FHMEeFu0j7Qh7EhF0mEFFMDP4
