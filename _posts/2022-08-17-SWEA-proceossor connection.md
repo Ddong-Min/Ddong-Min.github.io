@@ -161,7 +161,7 @@ int dfs(int cntt, int dist, int processor, int map[14][14]) {
 
 ```
 
-## 풀이설명
+### 풀이설명
 
 풀이 아이디어 :
 
