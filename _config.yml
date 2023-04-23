@@ -68,12 +68,7 @@ yat:
 
 # Google analytics
 # google_analytics: [Tracking ID]
-analytics:
-  provider           : "google"
-  
-  google:
-    tracking_id      : "G-4D1MSGLQBE"
-    anonymize_ip     :
+
 # If you want to generate website sitemap, you can set true
 # sitemap: false
 
