@@ -162,7 +162,7 @@ analytics:
 # Page default value
 # defaults:
 #   home:
-heading: "동민이의 코딩일지"
+heading: "동민이의 공부노트"
 subheading: "성장하는 개발자"
 banner: "https://mblogthumb-phinf.pstatic.net/20151130_249/jeongil_go_1448885932079lAUii_JPEG/bg_%284%29.jpg?type=w2"
 
