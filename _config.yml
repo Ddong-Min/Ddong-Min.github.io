@@ -67,8 +67,12 @@ yat:
 # content_width: "920px"
 
 # Google analytics
-google_analytics: G-4D1MSGLQBE
-
+# google_analytics: G-4D1MSGLQBE
+analytics:
+  privider        : "google"
+  google:
+    tracking_id   : "G-4D1MSGLQBE"
+    anonymize_ip  : # true, false (default)
 # If you want to generate website sitemap, you can set true
 # sitemap: false
 
