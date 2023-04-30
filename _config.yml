@@ -69,7 +69,7 @@ yat:
 # Google analytics
 # google_analytics: G-4D1MSGLQBE
 analytics:
-  privider        : "google"
+  privider        : "google-gtag"
   google:
     tracking_id   : "G-4D1MSGLQBE"
     anonymize_ip  : # true, false (default)
