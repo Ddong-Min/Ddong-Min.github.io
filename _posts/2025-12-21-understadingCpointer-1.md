@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "int* vs int (*)[3] 무엇이 다른것인가?"
