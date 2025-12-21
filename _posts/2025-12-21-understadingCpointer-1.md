@@ -2,16 +2,15 @@
 layout: post
 title: "int* vs int (*)[3] 무엇이 다른것인가?"
 excerpt: "배열의 이름과 배열의 주소, 도대체 무엇이 다른가? 직접 실험해본 기록"
-
 categories:
-    - c deep dive
+  - c deep dive
 tags:
-    - [c deep dive, pointer, array]
-
+  - c deep dive
+  - pointer
+  - array
 toc: true
 toc_sticky: true
-
-data: 2025-12-21
+date: 2025-12-21
 last_modified_at: 2025-12-21
 ---
 
