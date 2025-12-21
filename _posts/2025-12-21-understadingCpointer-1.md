@@ -1,3 +1,5 @@
+---
+
 layout: post
 title: "int* vs int (*)[3] 무엇이 다른것인가?"
 excerpt: "배열의 이름과 배열의 주소, 도대체 무엇이 다른가? 직접 실험해본 기록"
@@ -154,3 +156,5 @@ matrix + 1          : 000000051d1ffeb8
 
 * `matrix`: 낱개 단위(Element-wise) 접근
 * `&matrix`: 덩어리 단위(Block-wise) 접근
+
+---
